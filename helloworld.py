@@ -3,5 +3,7 @@ print("Hello world")
 
 print(3+2)
 
-for(i=0; i<10;i++):
+
+for x in range(6):
+  print(x)
   print("Hehe HIHI Haha")
