@@ -8,3 +8,4 @@ for x in range(6):
   print(x)
   print("Hehe HIHI Haha")
   print(x*x)
+  print(x**x)
